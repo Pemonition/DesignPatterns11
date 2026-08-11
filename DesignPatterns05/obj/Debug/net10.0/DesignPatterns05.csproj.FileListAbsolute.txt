@@ -1,0 +1,14 @@
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/bin/Debug/net10.0/DesignPatterns05
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/bin/Debug/net10.0/DesignPatterns05.deps.json
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/bin/Debug/net10.0/DesignPatterns05.runtimeconfig.json
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/bin/Debug/net10.0/DesignPatterns05.dll
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/bin/Debug/net10.0/DesignPatterns05.pdb
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.AssemblyInfoInputs.cache
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.AssemblyInfo.cs
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.csproj.CoreCompileInputs.cache
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.dll
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/refint/DesignPatterns05.dll
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.pdb
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/DesignPatterns05.genruntimeconfig.cache
+/Users/rannyer/RiderProjects/DesignPatterns05/DesignPatterns05/obj/Debug/net10.0/ref/DesignPatterns05.dll
