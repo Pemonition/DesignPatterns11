@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns05.Exercicio01;
 
-public class ComBordaREcheada
+public class ComBordaRecheada
 {
     private readonly IPizza _pizza;
 

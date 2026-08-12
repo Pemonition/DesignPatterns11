@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns05.Exercicio01;
 
-public class ComQueiijoExtra : IPizza
+public class ComQueijoExtra : IPizza
 {
     private readonly IPizza _pizza;
 
