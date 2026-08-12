@@ -4,5 +4,6 @@ public interface IPizza
 {
     string GetDescricao();
     double GetPreco();
+    
 
 }

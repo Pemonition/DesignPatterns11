@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns05.Exercicio01;
 
-public class ComPepperoni
+public class ComPepperoni : IPizza
 {
     private readonly IPizza _pizza;
 
