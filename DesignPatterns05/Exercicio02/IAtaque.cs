@@ -1,6 +1,6 @@
 ﻿namespace DesignPatterns05.Exercicio02;
 
-public class IAtaque
+public interface IAtaque
 {
-    
+    int CalcularDano();
 }
